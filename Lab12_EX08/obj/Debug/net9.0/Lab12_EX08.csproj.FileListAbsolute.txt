@@ -1,0 +1,15 @@
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\bin\Debug\net9.0\Lab12_EX08.exe
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\bin\Debug\net9.0\Lab12_EX08.deps.json
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\bin\Debug\net9.0\Lab12_EX08.runtimeconfig.json
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\bin\Debug\net9.0\Lab12_EX08.dll
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\bin\Debug\net9.0\Lab12_EX08.pdb
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\Lab12_EX08.GeneratedMSBuildEditorConfig.editorconfig
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\Lab12_EX08.AssemblyInfoInputs.cache
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\Lab12_EX08.AssemblyInfo.cs
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\Lab12_EX08.csproj.CoreCompileInputs.cache
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\Lab12_EX08.sourcelink.json
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\Lab12_EX08.dll
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\refint\Lab12_EX08.dll
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\Lab12_EX08.pdb
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\Lab12_EX08.genruntimeconfig.cache
+C:\PHUGUN\OOP 1\Lab12-CSharp-Class-Inheritance\Lab12_Ex08\obj\Debug\net9.0\ref\Lab12_EX08.dll
